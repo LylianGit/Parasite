@@ -1,0 +1,15 @@
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.csproj.AssemblyReference.cache
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.AssemblyInfoInputs.cache
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.AssemblyInfo.cs
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.csproj.CoreCompileInputs.cache
+C:\Users\lylia\source\repos\Parasite\Parasite\bin\Debug\net6.0\Parasite.exe
+C:\Users\lylia\source\repos\Parasite\Parasite\bin\Debug\net6.0\Parasite.deps.json
+C:\Users\lylia\source\repos\Parasite\Parasite\bin\Debug\net6.0\Parasite.runtimeconfig.json
+C:\Users\lylia\source\repos\Parasite\Parasite\bin\Debug\net6.0\Parasite.dll
+C:\Users\lylia\source\repos\Parasite\Parasite\bin\Debug\net6.0\Parasite.pdb
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.dll
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\refint\Parasite.dll
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.pdb
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\Parasite.genruntimeconfig.cache
+C:\Users\lylia\source\repos\Parasite\Parasite\obj\Debug\net6.0\ref\Parasite.dll
